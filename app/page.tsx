@@ -1,5 +1,5 @@
 "use client"
-
+import Head from "next/head"
 import type React from "react"
 
 import { useState } from "react"
@@ -84,7 +84,11 @@ export default function LemaiWebsite() {
 
   return (
     <div className="min-h-screen bg-white">
-      {/* Header */}
+      <Head>
+  <title>Lemai Soluções</title>
+  <meta name="description" content="Automatize sua empresa com Agentes de Inteligência Artificial da Lemai." />
+</Head>
+
       <header className="fixed top-0 w-full bg-white/95 backdrop-blur-sm border-b border-gray-100 z-50">
         <div className="container mx-auto px-4 py-4">
           <nav className="flex items-center justify-between">
