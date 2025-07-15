@@ -24,5 +24,4 @@ A Lemai é uma empresa especializada na criação de agentes inteligentes utiliz
 - Suporte Especializado: Equipe técnica dedicada para implementação e manutenção
 - Segurança Empresarial: Protocolos de segurança robustos e compliance com regulamentações
 
-## Tecnologias Utilizadas
-A landing page foi desenvolvida com foco em performance, acessibilidade e experiência do usuário, utilizando tecnologias modernas como Typescript, React e Vite e ferramentas de otimização avançadas.
+
