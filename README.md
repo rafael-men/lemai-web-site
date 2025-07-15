@@ -14,8 +14,8 @@ A Lemai é uma empresa especializada na criação de agentes inteligentes utiliz
 - Agentes de Recursos Humanos
 - Automatização de processos de recrutamento, seleção e gestão de talentos, incluindo triagem de currículos e entrevistas iniciais.
 - Agentes de Marketing
-- ersonalização de campanhas, análise de performance e otimização de estratégias de marketing digital com base em dados comportamentais.
-- 
+- Personalização de campanhas, análise de performance e otimização de estratégias de marketing digital com base em dados comportamentais.
+
 ## Diferenciais da Lemai
 
 - Personalização Completa: Cada agente é desenvolvido especificamente para as necessidades do cliente
